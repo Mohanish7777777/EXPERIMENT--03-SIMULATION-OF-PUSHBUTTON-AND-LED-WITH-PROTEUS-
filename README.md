@@ -1,6 +1,6 @@
 ```
-Name:Abishek Xavier A
-Register Number: 212222230004
+Name:Mohanish K
+Register Number: 212222100028
 ```
 # EXPERIMENT  03 SIMULATION OF PUSHBUTTON AND LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
